@@ -5,7 +5,7 @@ Script de criação de wallets Bitcoin de todos os formatos.
 Utililizando a biblioteca Blockthon do grande programador PyMmdrza, utilização de alta performance da biblioteca python Multiprocessing, ele cria em instantes centenas de wallets de todos os padrões BTC oficiais que existem.
 
 Para utilizar este script, precisa instalar as bibliotecas python:
-    pip install blockthon
+    pip install blockthon  |  
     pip install mnemonic
 
 Com uma boa manipulação do código, ele pode ser facilmente adaptado para sistemas de Puzzle BTC!
